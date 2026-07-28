@@ -1,80 +1,177 @@
 <div align="center">
 
-# Olá, eu sou a Lívia! 👋
+# Olá, eu sou a Lívia! シ 
 
-### Estudante de Ciência da Computação | Python • SQL • Pandas • C 
+### Estudante de Ciência da Computação | Python • SQL • Pandas • C
 
-<p align="center">
-  <img src="./cozy-home-office.gif" width="700px" alt="GIF de programação">
-</p>
+<br>
+
+<img
+  src="./assets/cozy-home-office.gif"
+  width="760px"
+  alt="Ambiente de programação"
+/>
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <table>
-<tr>
-<td width="58%" valign="top">
+  <tr>
+    <td width="62%" valign="top">
 
-## 👩‍💻 Sobre mim
+<h2>👩‍💻 Sobre mim</h2>
 
-Construindo minha carreira na área de **Ciência e Análise de Dados**.
+<p>
+Construindo minha carreira na área de <strong>Ciência e Análise de Dados</strong>.
+</p>
 
+<p>
 Atualmente, estou desenvolvendo projetos para aprimorar meus conhecimentos em:
+</p>
 
-- 🐍 Python para análise de dados
-- 🐼 Manipulação de dados com Pandas
-- 🔢 Análises numéricas com NumPy
-- 🗃️ Consultas e organização de dados com SQL
-- 📊 Visualização de dados com Matplotlib
-- 📓 Desenvolvimento de análises no Jupyter Notebook
-- 🧹 Limpeza e tratamento de bases de dados
-- 🔎 Análise exploratória de dados
+<ul>
+  <li>🐍 Python para análise de dados</li>
+  <li>🐼 Manipulação de dados com Pandas</li>
+  <li>🔢 Análises numéricas com NumPy</li>
+  <li>🗃️ Consultas e organização de dados com SQL</li>
+  <li>📊 Visualização de dados com Matplotlib</li>
+  <li>📓 Desenvolvimento de análises no Jupyter Notebook</li>
+  <li>🧹 Limpeza e tratamento de bases de dados</li>
+  <li>🔎 Análise exploratória de dados</li>
+</ul>
+
+  </td>
+
+  <td width="38%" align="center" valign="middle">
+
+<img
+  src="./assets/pixelart-by-softwaring.gif"
+  width="280px"
+  alt="Pixel art de uma cidade"
+/>
+
+<br>
+
+<sub><i>gif-by-softwaring</i></sub>
+
+  </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+<br>
+
+<h2 align="center">🛠️ Tecnologias e ferramentas</h2>
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Tecnologias">
+<img
+  src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode"
+  alt="Python, C, MySQL, Git, GitHub e VS Code"
+/>
 
-<br><br>
+<br><br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img
+  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+  alt="Pandas"
+/>
+
+<img
+  src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+  alt="NumPy"
+/>
+
+<img
+  src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
+  alt="Jupyter Notebook"
+/>
+
+<img
+  src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
+  alt="Matplotlib"
+/>
+
+<img
+  src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="SQL"
+/>
 
 </div>
+
+<br>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<br>
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<br>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LiviaP24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
+<img
+  height="170px"
+  src="https://github-readme-stats.vercel.app/api?username=LiviaP24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  alt="Estatísticas do GitHub"
+/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaP24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+<img
+  height="170px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaP24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="Linguagens mais utilizadas"
+/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LiviaP24&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
+<img
+  src="https://streak-stats.demolab.com?user=LiviaP24&theme=tokyonight&hide_border=true"
+  alt="Sequência de contribuições"
+/>
 
 </div>
 
-## 📚 Atualmente estudando
+<br>
 
-```python
-estudos = {
-    "linguagem": "Python",
-    "bibliotecas": ["Pandas", "NumPy", "Matplotlib"],
-    "banco_de_dados": "SQL",
-    "foco": "Análise e Ciência de Dados",
-    "status": "Aprendendo todos os dias 🚀"
-}
+---
 
+<br>
+
+<h2 align="center">📌 Projetos em destaque</h2>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/LiviaP24/analise-exploratoria-vendas">
+  <img
+    width="410px"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=LiviaP24&repo=analise-exploratoria-vendas&theme=tokyonight&hide_border=true"
+    alt="Projeto de análise exploratória de vendas"
+  />
+</a>
+
+<a href="https://github.com/LiviaP24/Estudo-Pandas-Python">
+  <img
+    width="410px"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=LiviaP24&repo=Estudo-Pandas-Python&theme=tokyonight&hide_border=true"
+    alt="Projeto de estudo de Pandas com Python"
+  />
+</a>
+
+</div>
