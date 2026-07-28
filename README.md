@@ -4,7 +4,9 @@
 
 ### Estudante de Ciência da Computação | Python • SQL • Pandas • C 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformando+dados+em+informa%C3%A7%C3%B5es;Estudando+Python%2C+Pandas+e+SQL;Desenvolvendo+projetos+de+dados" alt="Typing SVG">
+<p align="center">
+  <img src="./cozy-home-office.gif" width="700px" alt="GIF de programação">
+</p>
 
 </div>
 
@@ -28,16 +30,6 @@ Atualmente, estou desenvolvendo projetos para aprimorar meus conhecimentos em:
 - 📓 Desenvolvimento de análises no Jupyter Notebook
 - 🧹 Limpeza e tratamento de bases de dados
 - 🔎 Análise exploratória de dados
-
-</td>
-
-  <td width="45%" align="center" valign="middle">
-
-<img src="./cozy-home-office.gif" width="100%" alt="Ambiente de programação">
-
-  </td>
-  </tr>
-</table>
 
 ---
 
