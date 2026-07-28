@@ -76,8 +76,8 @@ Atualmente, estou desenvolvendo projetos para aprimorar meus conhecimentos em:
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode"
-  alt="Python, C, MySQL, Git, GitHub e VS Code"
+  src="https://skillicons.dev/icons?i=python,c,java,mysql,git,github,vscode"
+  alt="Python, C, Java, MySQL, Git, GitHub e VS Code"
 />
 
 <br><br><br>
