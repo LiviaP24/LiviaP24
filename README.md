@@ -145,33 +145,3 @@ Atualmente, estou desenvolvendo projetos para aprimorar meus conhecimentos em:
 />
 
 </div>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">📌 Projetos em destaque</h2>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/LiviaP24/analise-exploratoria-vendas">
-  <img
-    width="410px"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LiviaP24&repo=analise-exploratoria-vendas&theme=tokyonight&hide_border=true"
-    alt="Projeto de análise exploratória de vendas"
-  />
-</a>
-
-<a href="https://github.com/LiviaP24/Estudo-Pandas-Python">
-  <img
-    width="410px"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LiviaP24&repo=Estudo-Pandas-Python&theme=tokyonight&hide_border=true"
-    alt="Projeto de estudo de Pandas com Python"
-  />
-</a>
-
-</div>
