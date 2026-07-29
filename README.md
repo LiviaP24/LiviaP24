@@ -7,7 +7,7 @@
 <br>
 
 <img
-  src="./assets/cozy-home-office.gif"
+  src="./assets/soft-computer.gif"
   width="760px"
   alt="Ambiente de programação"
 />
