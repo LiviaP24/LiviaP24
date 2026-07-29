@@ -7,9 +7,9 @@
 <br>
 
 <img
-  src="./assets/soft-computer.gif"
+  src="./assets/gatinhos-pixel.gif"
   width="760px"
-  alt="Ambiente de programação"
+  alt="Gatinhos dançando"
 />
 
 </div>
